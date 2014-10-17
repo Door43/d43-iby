@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[iby:home|Door43 (iby)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-iby|d43-iby repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-iby/archive/master.zip|d43-iby.zip]]
+
+**Recent Changes**
+{{changes>ns = iby}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/iby|Ethnologue data]]
+
